@@ -1,7 +1,7 @@
 Industry Lab 04a: Arrays
 ======
 ## Exercise One: Arrays
-Do the following **on paper**!
+
 Consider the following array:
 ```java
 int[] numbers = {-9, 2, 7, 5, 124, -5, 1, 144};
