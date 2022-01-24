@@ -1,5 +1,6 @@
 Industry Lab 04a: Arrays
 ======
+Start with arrays, and more arrays 
 ## Exercise One: Arrays
 
 Consider the following array:
